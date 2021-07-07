@@ -1,7 +1,7 @@
 <?php ?>
 
         <footer class="main-footer">
-            <p class="text-center"><strong>Copyright &copy; 2014-2019 <a href=""><?php echo APPNAME ?></a>.</strong> All rights reserved.</p>
+            <p class="text-center"><strong>Copyright &copy; 2021 <a href=""><?php echo APPNAME ?></a>.</strong> All rights reserved.</p>
         </footer>
 
         <!-- Control Sidebar -->

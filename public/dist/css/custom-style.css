@@ -1,0 +1,1 @@
+figure.preview{width:120px;height:120px}figure.preview img{width:100%;height:100%}input.invalid{border:2px solid red}input.valid{border:2px solid green}.loader{animation:spin 1.5s linear infinite}@keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
